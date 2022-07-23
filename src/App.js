@@ -1,6 +1,6 @@
 import './App.css';
 import Search from './Components/search/search';
-import { cityURL,cityOptionsApi } from './api';
+
 
 function App() {
 
