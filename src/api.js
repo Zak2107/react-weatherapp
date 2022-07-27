@@ -6,4 +6,8 @@ export const cityOptionsApi = {
 	}
 };
 
-export const cityURL = "https://wft-geo-db.p.rapidapi.com/v1/geo"
+export const cityURL = "https://wft-geo-db.p.rapidapi.com/v1/geo";
+
+export const waeather_api_URL = "https://api.openweathermap.org/data/2.5";
+
+export const weather_api_key = "8c6d6f93c63caa8c020eb2bf5b97069e";
